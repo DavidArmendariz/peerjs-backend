@@ -1,9 +1,9 @@
 {
-  "name": "vchart",
+  "name": "webrtc",
   "version": "1.0.0",
   "description": "WebRTC backend",
   "scripts": {
-    "start": "nodemon --exec babel-node ./src/server.js",
+    "dev": "nodemon --exec babel-node ./src/server.js",
     "build": "babel ./src -d ./dist -s"
   },
   "keywords": [],
