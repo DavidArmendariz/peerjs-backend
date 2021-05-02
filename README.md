@@ -1,10 +1,11 @@
 # VChart-BackEnd
+
 npm i
-# To start the server
+
+## To start the server
+
 npm start
 
+## To start peerjs
 
-# Install peerjs Globaly
-npm i -g peerjs
-# To start peerjs
-peerjs --port 5002
+npx peerjs --port 5002
